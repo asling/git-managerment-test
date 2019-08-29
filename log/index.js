@@ -1,1 +1,1 @@
-function init() { console.log(1234);   }
+function init() { console.log('log start');   }
